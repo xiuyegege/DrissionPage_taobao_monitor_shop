@@ -1,0 +1,2 @@
+# DrissionPage_taobao_monitor_shop
+使用DrissionPage来监控淘宝竞争店铺的爆款
