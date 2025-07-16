@@ -8,6 +8,7 @@
 - `get_datas_improved.py` - 改进版程序（推荐使用）
 - `config.py` - 配置文件
 - `README.md` - 说明文档
+- 需要创建 temp\log\scv_file文件夹
 
 ## 问题分析
 
